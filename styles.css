@@ -140,7 +140,7 @@ body {
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background: url('assets/1000065634-modified.png') no-repeat center center fixed;
+    background: url('1000065634-modified.png') no-repeat center center fixed;
     filter: opacity(10px);
     background-size: cover;
     background-color: #f4f4f9; 
