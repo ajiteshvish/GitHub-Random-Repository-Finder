@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Random Repository Finder</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <h1>GitHub Random Repository Finder</h1>
+        <p class="subheading">Find a random GitHub repository based on your favorite programming language!</p>
+        <select id="languageDropdown">
+            <option value="">Select Language</option>
+        </select>
+        <button id="fetchRepoBtn">Find Repository</button>
+
+        <div id="repoDetails" class="hidden">
+            <h2 id="repoName"></h2>
+            <p id="repoDescription"></p>
+            <ul>
+                <li><strong>⭐ Stars:</strong> <span id="repoStars"></span></li>
+                <li><strong>🍴 Forks:</strong> <span id="repoForks"></span></li>
+                <li><strong>🐞 Open Issues:</strong> <span id="repoIssues"></span></li>
+            </ul>
+            <button id="refreshBtn" class="hidden">Get Another</button>
+        </div>
+        <p id="statusMessage" class="hidden"></p>
+    </div>
+
+    <footer>
+        <h2>This is made by Ajitesh Vishwakarma</h2>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
