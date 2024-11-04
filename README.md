@@ -17,7 +17,7 @@ The **GitHub Random Repository Finder** is a web application that lets users dis
 
 ## 🖥️ Demo
 
-[Link to Live Demo or GIF of App in Action]
+ https://ajiteshvish.github.io/GitHub-Random-Repository-Finder/
 
 ## 📚 Tech Stack
 
