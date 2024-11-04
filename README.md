@@ -47,7 +47,7 @@ The **GitHub Random Repository Finder** is a web application that lets users dis
 
 ## 📸 Screenshots
 
-![Screenshot of App](https://via.placeholder.com/600x400) 
+![Screenshot of App](1000065634-modified.png) 
 
 ## 🤔 Challenges & Learnings
 
